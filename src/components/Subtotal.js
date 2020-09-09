@@ -8,12 +8,12 @@ function Subtotal() {
   const [{ cart }] = useStateValue();
   return (
     <div className="subtotal">
-      <div class="subtotal__head">
+      {/* <div class="subtotal__head">
         <img
           src="https://images-eu.ssl-images-amazon.com/images/G/31/checkout/assets/TM_desktop._CB443006202_.png"
           alt=""
         />
-      </div>
+  </div>*/}
       <div className="subtotal__body">
         <CurrencyFormat
           renderText={(value) => (
