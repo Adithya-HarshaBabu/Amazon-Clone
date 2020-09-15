@@ -1,3 +1,13 @@
+# Amazon Clone built with a fully functional user authentication and payment functionality with the help of Stripe. 
+
+Website: https://clone-2bcd0.web.app/
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
